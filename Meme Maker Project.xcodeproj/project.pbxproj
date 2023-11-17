@@ -13,6 +13,7 @@
 		3CC8A01A2B02815500E503BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3CC8A0182B02815500E503BD /* Main.storyboard */; };
 		3CC8A01C2B02815900E503BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3CC8A01B2B02815900E503BD /* Assets.xcassets */; };
 		3CC8A01F2B02815900E503BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3CC8A01D2B02815900E503BD /* LaunchScreen.storyboard */; };
+		3CC8A0272B028CC800E503BD /* CaptionOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CC8A0262B028CC700E503BD /* CaptionOption.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3CC8A01B2B02815900E503BD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3CC8A01E2B02815900E503BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3CC8A0202B02815900E503BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3CC8A0262B028CC700E503BD /* CaptionOption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptionOption.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				3CC8A0122B02815500E503BD /* AppDelegate.swift */,
 				3CC8A0142B02815500E503BD /* SceneDelegate.swift */,
 				3CC8A0162B02815500E503BD /* ViewController.swift */,
+				3CC8A0262B028CC700E503BD /* CaptionOption.swift */,
 				3CC8A0182B02815500E503BD /* Main.storyboard */,
 				3CC8A01B2B02815900E503BD /* Assets.xcassets */,
 				3CC8A01D2B02815900E503BD /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3CC8A0172B02815500E503BD /* ViewController.swift in Sources */,
+				3CC8A0272B028CC800E503BD /* CaptionOption.swift in Sources */,
 				3CC8A0132B02815500E503BD /* AppDelegate.swift in Sources */,
 				3CC8A0152B02815500E503BD /* SceneDelegate.swift in Sources */,
 			);
